@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.squareb {
+  border: 0px solid black;
+  height: 50px;
+  width: 50px;
+  background-color: #FFFFFF;
+  color: #FFFFFF;
+}
+
+.square {
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+  background-color: #FFFFFF;
+  color: #000000;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.questions {
+  border: 2px solid #222;;
+  height: 50px;
+  width: 1000px;
+  background-color: #222;
+  color: white;
+}
+
+table {
+  margin: auto;
+}
+
+p {
+  margin: 2%;
+}
