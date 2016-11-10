@@ -17,7 +17,7 @@ var App = React.createClass({
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Welcome to React</h2>
+          <h2>Bio Test</h2>
         </div>
         <li><Link to="/about">About</Link></li>
         <li><Link to="/punnett">Punnett Square Test</Link></li>

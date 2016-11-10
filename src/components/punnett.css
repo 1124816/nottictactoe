@@ -9,6 +9,11 @@
   color: white;
 }
 
+.links {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 .App-intro {
   font-size: large;
 }
