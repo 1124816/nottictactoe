@@ -14,7 +14,7 @@ export default React.createClass({
     return(
       <div>
       <p>{this.props.full[0]} </p>
-      <PunnettSquare full={this.props.full}/>
+      <PunnettSquare full={this.props.full} correct={this.props.correct}/>
       <table>
       {rows}
       </table>

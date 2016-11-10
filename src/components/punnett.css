@@ -44,10 +44,25 @@
   color: white;
 }
 
+.correct {
+  font-size: large;
+  color: green;
+}
+
+.incorrect {
+  font-size: large;
+  color: red;
+}
+
 table {
   margin: auto;
 }
 
 p {
   margin: 2%;
+}
+
+img {
+  width:25%;
+  height:25%;
 }
