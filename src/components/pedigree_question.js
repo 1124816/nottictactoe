@@ -1,5 +1,4 @@
 import React from 'react';
-import PunnettSquare from './punnett_square.js'
 
 export default React.createClass({
   render() {
@@ -14,7 +13,7 @@ export default React.createClass({
     return(
       <div>
       <p>{this.props.correct===0 ? this.props.full[0] : this.props.full[3]}</p>
-      <PunnettSquare full={this.props.full} correct={this.props.correct}/>
+      <img src="p-chart.PNG" alt="not_Moose"/>
       <table>
       {rows}
       </table>

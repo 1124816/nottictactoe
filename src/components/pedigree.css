@@ -41,6 +41,7 @@
   height: 50px;
   width: 1000px;
   background-color: #222;
+  text-align: inherit;
   color: white;
 }
 
@@ -56,7 +57,7 @@
 
 .score {
   float: left;
-  margin-top: .01%;
+  margin-top: .1%;
 }
 
 table {

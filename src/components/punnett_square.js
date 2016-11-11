@@ -25,9 +25,9 @@ export default React.createClass({
     } else if(this.props.correct===0){
       return(
         <div>
-        <img src="meese.jpeg" alt="Moose"/>
-        <img src="moose.jpeg" alt="Moose"/>
-        <img src="meerse.jpeg" alt="Moose"/>
+        <img src="meese.jpeg" alt="Not sentient"/>
+        <img src="moose.jpeg" alt="sentient"/>
+        <img src="meerse.jpeg" alt="Not sentient"/>
         </div>
       );
     } else {
