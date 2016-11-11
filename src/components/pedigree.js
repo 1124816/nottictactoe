@@ -56,7 +56,7 @@ export default React.createClass({
       <div className="App">
         <div className="App-header">
           <Link to="/" className="links">
-          <h2>Bio Test</h2>
+          <h2>Bio & Moose Test</h2>
           </Link>
         </div>
         {this.state.done ? this.renderResults() : this.renderQuestion()}
